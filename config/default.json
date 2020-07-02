@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://freemdbu:FreeMDB_U2020@freecluster-pfqyp.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
